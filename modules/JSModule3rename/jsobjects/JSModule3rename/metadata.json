@@ -1,0 +1,22 @@
+{
+  "gitSyncId": "67dbd0122a0d0261832e04c6_9a72ab3b-7c0f-427e-aea8-6d0b2a3de54b",
+  "id": "JSModule3rename_JSModule3rename",
+  "isPublic": true,
+  "unpublishedCollection": {
+    "contextType": "MODULE",
+    "moduleId": "JSModule3rename",
+    "name": "JSModule3rename",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "67dbcfbe2a0d0261832e047c_83821bc3-86a7-4eb6-bb10-05e2253437c9",
+  "id": "JSModule3rename_JSModule2",
+  "moduleUUID": "ed9e5094-98a4-4f88-a2b3-c4bab54aab09",
+  "packageUUID": "9607bc5e-1c56-49f2-8814-a068b9383a84",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {
+      "myFun1": "[]",
+      "myFun2": "[]"
+    },
+    "moduleId": "JSModule3rename",
+    "moduleInputs": {
+      "eaxcpxvkfm": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "eaxcpxvkfm",
+        "label": "myFun2",
+        "propertyName": "inputs.myFun2"
+      },
+      "vzsczgimuj": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "vzsczgimuj",
+        "label": "myFun1",
+        "propertyName": "inputs.myFun1"
+      }
+    },
+    "name": "JSModule2"
+  }
+}
