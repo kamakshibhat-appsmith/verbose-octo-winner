@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "67dbcfbe2a0d0261832e047c_16a0110c-2ab3-4c9f-8b93-a170403fae6e",
+  "id": "JSModule3_QueryModule1",
+  "moduleUUID": "9c3688e1-8ec4-485a-a33c-f73488eb9103",
+  "packageUUID": "9607bc5e-1c56-49f2-8814-a068b9383a84",
+  "type": "QUERY_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "MODULE",
+    "inputs": {
+      "input1": "1"
+    },
+    "moduleId": "JSModule3",
+    "moduleInputs": {
+      "plulajifoz": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "1",
+        "id": "plulajifoz",
+        "label": "input1",
+        "propertyName": "inputs.input1"
+      }
+    },
+    "name": "QueryModule1"
+  }
+}
