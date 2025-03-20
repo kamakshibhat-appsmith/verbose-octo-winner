@@ -1,0 +1,22 @@
+{
+  "gitSyncId": "67dbce962a0d0261832e03ad_e5cfce01-903b-49b8-ac34-02e29d61d9fb",
+  "id": "JSModule2_JSModule2",
+  "isPublic": true,
+  "unpublishedCollection": {
+    "contextType": "MODULE",
+    "moduleId": "JSModule2",
+    "name": "JSModule2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

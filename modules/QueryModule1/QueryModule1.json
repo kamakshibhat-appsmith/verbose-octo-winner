@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67dbcd0f2a0d0261832e0311_b1d20789-0b67-4f28-bd32-f60398a77337",
+  "moduleUUID": "9c3688e1-8ec4-485a-a33c-f73488eb9103",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "1",
+            "id": "plulajifoz",
+            "label": "input1",
+            "propertyName": "inputs.input1"
+          }
+        ],
+        "id": "auxsvplbpz",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}
