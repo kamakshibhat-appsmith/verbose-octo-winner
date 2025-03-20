@@ -1,1 +1,1 @@
-SELECT * FROM public."users" LIMIT {{inputs.input1}};
+SELECT * FROM public."users" LIMIT {{inputs.input11}};
